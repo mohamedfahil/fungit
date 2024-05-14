@@ -5,3 +5,4 @@ console.log("the  no. is",x);
 console.log("the no. is",y);
 let total =(x+y+z)
 console.log(total) 
+console.log(z)
